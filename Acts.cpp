@@ -21,7 +21,7 @@ void pressEnter() {
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
     cin.get();
 }
-//Done by
+//Done by Kamola
 void Acts::Act1(Player& player) {
     cout << "--- ACT 1 ---\n";
     cout << "You wake up in your apartment. Life is boring, repetitive.\n";
@@ -53,7 +53,7 @@ void Acts::Act1(Player& player) {
     cout << "You feel different now. Smarter. Stronger. Focused.\n";
     pressEnter();
 }
-//Done by
+//Done by Mubina
 void Acts::Act2(Player& player) {
     cout << "--- ACT 2 ---\n";
     cout << "You scout a nearby bank. Quiet neighborhood. Not many guards.\n";
@@ -80,7 +80,7 @@ void Acts::Act2(Player& player) {
     cout << "You now know the bank better than some employees.\n";
     pressEnter();
 }
-//Done by
+//Done by Lola
 void Acts::Act3_day1(Player& player) {
     cout << "--- ACT 3 ---\n";
     cout << "\n--- DAY 1 ---\n";
