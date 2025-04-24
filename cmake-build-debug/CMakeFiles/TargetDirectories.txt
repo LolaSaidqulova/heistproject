@@ -1,0 +1,3 @@
+/Users/lola/Downloads/projectHeistGame/cmake-build-debug/CMakeFiles/projectHeistGame.dir
+/Users/lola/Downloads/projectHeistGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lola/Downloads/projectHeistGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
